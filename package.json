@@ -35,7 +35,8 @@
     "prepare": "npm run build"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   },
   "engines": {
     "node": ">=22.19"
