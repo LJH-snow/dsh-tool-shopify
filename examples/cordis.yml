@@ -1,0 +1,5 @@
+plugins:
+  dsh-tool-shopify:
+    storeDomain: your-store.myshopify.com
+    accessToken: ${SHOPIFY_ADMIN_ACCESS_TOKEN}
+    maxOutputBytes: 65536
